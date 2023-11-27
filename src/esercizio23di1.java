@@ -1,6 +1,6 @@
 public class esercizio23di1 {
         public static void main(String[] args) {
-            System.out.println(checkRange(2,10, 16));
+            System.out.println(checkRange(1,10, 9));
 
         }
 
